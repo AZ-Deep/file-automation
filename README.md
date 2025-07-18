@@ -10,7 +10,7 @@ Watchdog
 You will need watchdog for this so you need to execute this in your terminal:
 pip install watchdog
 
-Here's a guiide if you like: https://pythonhosted.org/watchdog/
+Here's a guide if you like: https://pythonhosted.org/watchdog/
 
 ####Usage
 File-automation can be useful for people who have little to no time of organizing their files because this program does it automatically for you! Run the program and just watch it while it
